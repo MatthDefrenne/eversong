@@ -1,0 +1,6 @@
+tree 0e363a10bb5a9c2bd879ab35b444518bbcc9abac
+parent 9919649b0c2a747f5baf6c8eb599f2d172b7c8e2
+author ShinDarth <borzifrancesco@gmail.com> 1470849446 +0200
+committer ShinDarth <borzifrancesco@gmail.com> 1470849446 +0200
+
+Core/Strings: imported 157 LANG_* strings from TrinityCore

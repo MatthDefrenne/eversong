@@ -1,0 +1,15 @@
+96fa94c3fbbba85a0f8882203a553f0b07c07711 commit	refs/heads/master
+a385a6b51d37214b76e47b6f542d2d94653d83ad commit	refs/remotes/origin/HEAD
+a385a6b51d37214b76e47b6f542d2d94653d83ad commit	refs/remotes/origin/master
+dc146790b42d067c50c937807d997818545b5d11 commit	refs/stash
+4b3aa0706c09b8f8a9d6e8822e10dd2576b9e30e tag	refs/tags/0.1
+3f02abf1026f6a9565ea4b7e0f7fc4567b919c62 tag	refs/tags/0.1.1
+b9e3f9ae13496d0497d036ad7a7f5dcc7db0538a tag	refs/tags/0.5
+6f7a0465750ac11c668e1cfd5fa2502059325f10 commit	refs/tags/1.0-dev
+4b3aa0706c09b8f8a9d6e8822e10dd2576b9e30e tag	refs/tags/v0.1
+3f02abf1026f6a9565ea4b7e0f7fc4567b919c62 tag	refs/tags/v0.1.1
+bf139c3d34c09eeabafe8f22ca64a670e203c075 commit	refs/tags/v0.5
+59d568d603039effaffecead379f094940bf1b2e commit	refs/tags/v1.0
+a183ab1646b3f6c6ab582c76dd4c54550cd9f853 commit	refs/tags/v1.0-dev
+31aa2c8c451a6a4db0c3049ae3f1836fafbbfe6a tag	refs/tags/v1.0.1
+d591c1169eb944871901d784472699ad6ec61e85 commit	refs/tags/v1.0.2
